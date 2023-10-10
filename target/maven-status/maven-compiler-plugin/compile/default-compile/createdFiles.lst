@@ -1,0 +1,17 @@
+br\com\etechoracio\boa_viagem\entity\Viagem.class
+br\com\etechoracio\boa_viagem\enums\CategoriaEnum.class
+br\com\etechoracio\boa_viagem\repository\GastoRepository.class
+br\com\etechoracio\boa_viagem\exception\handler\ApiErrorResponse.class
+br\com\etechoracio\boa_viagem\BoaViagemApiApplication.class
+br\com\etechoracio\boa_viagem\service\ViagemService.class
+br\com\etechoracio\boa_viagem\entity\Gasto.class
+br\com\etechoracio\boa_viagem\controller\ViagemController.class
+br\com\etechoracio\boa_viagem\repository\ViagemRepository.class
+br\com\etechoracio\boa_viagem\exception\handler\ApiErrorResponse$ApiErrorResponseBuilder.class
+br\com\etechoracio\boa_viagem\dto\ViagemDTO.class
+br\com\etechoracio\boa_viagem\exception\handler\RestExceptionHandler.class
+br\com\etechoracio\boa_viagem\controller\GastoController.class
+br\com\etechoracio\boa_viagem\dto\GastoDTO.class
+br\com\etechoracio\boa_viagem\enums\TipoViagemEnum.class
+br\com\etechoracio\boa_viagem\service\GastoService.class
+br\com\etechoracio\boa_viagem\dto\InsercaoGastoDTO.class

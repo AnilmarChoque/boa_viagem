@@ -1,0 +1,16 @@
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\entity\Viagem.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\dto\ViagemDTO.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\enums\CategoriaEnum.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\controller\GastoController.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\repository\ViagemRepository.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\repository\GastoRepository.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\service\ViagemService.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\exception\handler\RestExceptionHandler.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\enums\TipoViagemEnum.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\dto\InsercaoGastoDTO.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\entity\Gasto.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\dto\GastoDTO.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\service\GastoService.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\controller\ViagemController.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\exception\handler\ApiErrorResponse.java
+C:\Users\Professor\Documents\roger\boa-viagem-api\src\main\java\br\com\etechoracio\boa_viagem\BoaViagemApiApplication.java
